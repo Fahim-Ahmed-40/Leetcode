@@ -26,6 +26,7 @@ my Daily  leetcode solves commit
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -35,4 +36,12 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
