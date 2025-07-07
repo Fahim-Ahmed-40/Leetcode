@@ -30,6 +30,7 @@ my Daily  leetcode solves commit
 | [0234-palindrome-linked-list](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,9 +45,18 @@ my Daily  leetcode solves commit
 | [0231-power-of-two](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
