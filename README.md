@@ -8,16 +8,19 @@ my Daily  leetcode solves commit
 | ------- |
 | [0437-path-sum-iii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -61,6 +64,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
