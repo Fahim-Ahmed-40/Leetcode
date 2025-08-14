@@ -94,5 +94,6 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0242-valid-anagram) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
