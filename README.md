@@ -56,6 +56,7 @@ my Daily  leetcode solves commit
 | [0326-power-of-three](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -83,6 +84,7 @@ my Daily  leetcode solves commit
 | ------- |
 | [0053-maximum-subarray](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0217-contains-duplicate) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
