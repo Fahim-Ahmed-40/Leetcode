@@ -67,6 +67,7 @@ my Daily  leetcode solves commit
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Memoization
@@ -80,6 +81,7 @@ my Daily  leetcode solves commit
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -101,4 +103,8 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1448-maximum-69-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
