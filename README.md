@@ -57,6 +57,7 @@ my Daily  leetcode solves commit
 | [0342-power-of-four](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
