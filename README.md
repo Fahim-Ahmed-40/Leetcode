@@ -72,6 +72,7 @@ my Daily  leetcode solves commit
 | [0053-maximum-subarray](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Memoization
 |  |
 | ------- |
@@ -79,6 +80,7 @@ my Daily  leetcode solves commit
 ## Simulation
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
@@ -110,4 +112,8 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0053-maximum-subarray) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
