@@ -88,11 +88,13 @@ my Daily  leetcode solves commit
 | [0053-maximum-subarray](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0217-contains-duplicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0242-valid-anagram) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +110,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Divide and Conquer
 |  |
 | ------- |
