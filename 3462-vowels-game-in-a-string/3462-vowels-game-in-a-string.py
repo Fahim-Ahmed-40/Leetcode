@@ -1,10 +1,8 @@
 class Solution:
     def doesAliceWin(self, s: str) -> bool:
-         arr=str(s)
-         ind=[]
          cnt=0
-         for i in range(len(arr)):
-            if arr[i]=='a' or arr[i]=='e' or arr[i]=='i' or arr[i]=='o' or arr[i]=='u' :
+         for i in range(len(s)):
+            if s[i]=='a' or s[i]=='e' or s[i]=='i' or s[i]=='o' or s[i]=='u' :
                  cnt+=1
 
          if cnt%2==1:
