@@ -5,8 +5,7 @@ class Solution:
          cnt=0
          for i in range(len(arr)):
             if arr[i]=='a' or arr[i]=='e' or arr[i]=='i' or arr[i]=='o' or arr[i]=='u' :
-                ind.append(i)
-                cnt+=1
+                 cnt+=1
 
          if cnt%2==1:
             return True
