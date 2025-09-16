@@ -49,6 +49,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ my Daily  leetcode solves commit
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -92,6 +94,7 @@ my Daily  leetcode solves commit
 | [1006-vowel-spellchecker](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,4 +147,8 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
