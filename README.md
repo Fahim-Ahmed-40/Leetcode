@@ -96,6 +96,7 @@ my Daily  leetcode solves commit
 | [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ my Daily  leetcode solves commit
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ my Daily  leetcode solves commit
 | [2887-sort-vowels-in-a-string](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +161,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,4 +170,8 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
