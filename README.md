@@ -97,6 +97,7 @@ my Daily  leetcode solves commit
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ my Daily  leetcode solves commit
 | [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3827-implement-router) |
 ## Brainteaser
 |  |
 | ------- |
@@ -162,6 +165,7 @@ my Daily  leetcode solves commit
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -170,8 +174,13 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
