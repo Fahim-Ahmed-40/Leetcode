@@ -97,6 +97,7 @@ my Daily  leetcode solves commit
 | [2023-design-movie-rental-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3827-implement-router) |
 ## Hash Table
@@ -110,6 +111,7 @@ my Daily  leetcode solves commit
 | [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3827-implement-router) |
 ## Sorting
@@ -158,6 +160,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0169-majority-element) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Number Theory
 |  |
 | ------- |
