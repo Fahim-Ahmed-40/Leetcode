@@ -45,6 +45,7 @@ my Daily  leetcode solves commit
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -126,6 +127,7 @@ my Daily  leetcode solves commit
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0242-valid-anagram) |
 | [1006-vowel-spellchecker](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
