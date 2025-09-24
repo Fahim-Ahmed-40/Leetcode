@@ -56,6 +56,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0050-powx-n) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0342-power-of-four) |
@@ -108,6 +109,7 @@ my Daily  leetcode solves commit
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0242-valid-anagram) |
@@ -130,6 +132,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0242-valid-anagram) |
 | [1006-vowel-spellchecker](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
