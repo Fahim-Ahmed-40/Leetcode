@@ -77,6 +77,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -94,6 +95,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0217-contains-duplicate) |
