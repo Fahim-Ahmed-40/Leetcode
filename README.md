@@ -61,6 +61,7 @@ my Daily  leetcode solves commit
 | [0231-power-of-two](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -101,6 +102,7 @@ my Daily  leetcode solves commit
 | [0169-majority-element](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -207,4 +209,8 @@ my Daily  leetcode solves commit
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0611-valid-triangle-number) |
 | [3827-implement-router](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3827-implement-router) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
