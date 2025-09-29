@@ -83,6 +83,7 @@ my Daily  leetcode solves commit
 | [0120-triangle](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1013-fibonacci-number) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Memoization
@@ -106,6 +107,7 @@ my Daily  leetcode solves commit
 | [0830-largest-triangle-area](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2023-design-movie-rental-system) |
