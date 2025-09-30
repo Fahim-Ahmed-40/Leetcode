@@ -68,6 +68,7 @@ my Daily  leetcode solves commit
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1448-maximum-69-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -93,6 +94,7 @@ my Daily  leetcode solves commit
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -112,6 +114,7 @@ my Daily  leetcode solves commit
 | [1834-minimum-number-of-people-to-teach](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -219,4 +222,8 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0830-largest-triangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
