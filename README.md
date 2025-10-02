@@ -70,6 +70,7 @@ my Daily  leetcode solves commit
 | [1642-water-bottles](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -98,6 +99,7 @@ my Daily  leetcode solves commit
 | [1642-water-bottles](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
