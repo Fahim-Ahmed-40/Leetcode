@@ -109,6 +109,7 @@ my Daily  leetcode solves commit
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0217-contains-duplicate) |
+| [0407-trapping-rain-water-ii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -205,6 +206,7 @@ my Daily  leetcode solves commit
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2023-design-movie-rental-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
@@ -216,6 +218,7 @@ my Daily  leetcode solves commit
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -230,4 +233,8 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
