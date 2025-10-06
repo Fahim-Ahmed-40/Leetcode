@@ -16,6 +16,7 @@ my Daily  leetcode solves commit
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0437-path-sum-iii) |
+| [0794-swim-in-rising-water](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0904-leaf-similar-trees](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
@@ -113,6 +114,7 @@ my Daily  leetcode solves commit
 | [0407-trapping-rain-water-ii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -209,6 +211,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [2023-design-movie-rental-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
@@ -222,11 +225,13 @@ my Daily  leetcode solves commit
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [3797-design-spreadsheet](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [3827-implement-router](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/3827-implement-router) |
 ## Geometry
 |  |
@@ -241,4 +246,9 @@ my Daily  leetcode solves commit
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
