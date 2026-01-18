@@ -47,6 +47,7 @@ my Daily  leetcode solves commit
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -107,6 +108,7 @@ my Daily  leetcode solves commit
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0169-majority-element) |
@@ -146,6 +148,7 @@ my Daily  leetcode solves commit
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Fahim-Ahmed-40/Leetcode/tree/master/0242-valid-anagram) |
